@@ -1,0 +1,1 @@
+java -jar ./dist/Pdf2Png.jar
